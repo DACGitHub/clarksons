@@ -10,7 +10,7 @@ renderer: "svg",
 loop: true,
 autoplay: true,
 prerender: true,
-path: "clarksons_section01_v03.json"
+path: "clarksons_section01_v04.json"
 });
 
 
@@ -45,7 +45,7 @@ renderer: "svg",
 loop: true,
 autoplay: true,
 prerender: true,
-path: "clarksons_section04_v01.json"
+path: "clarksons_section04_v02.json"
 });
 
 //
@@ -57,7 +57,7 @@ renderer: "svg",
 loop: true,
 autoplay: true,
 prerender: true,
-path: "clarksons_section05_v01.json"
+path: "clarksons_section05_v02.json"
 });
 
 //
@@ -69,7 +69,7 @@ renderer: "svg",
 loop: true,
 autoplay: true,
 prerender: true,
-path: "clarksons_section06_v01.json"
+path: "clarksons_section06_v03.json"
 });
 
 //
@@ -105,7 +105,7 @@ renderer: "svg",
 loop: true,
 autoplay: true,
 prerender: true,
-path: "clarksons_section09_v01.json"
+path: "clarksons_section09_v02.json"
 });
 
 //
